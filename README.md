@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+### work is bread 🍞<br>
+### code is interest 😄<br>
+### and tomorrow is hope ☀️
+
 <!--
 **LyonYUFAN/LyonYUFAN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
